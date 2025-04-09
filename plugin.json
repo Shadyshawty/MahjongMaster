@@ -1,0 +1,12 @@
+{
+  "Author": "YourName",
+  "Name": "Mahjong Master",
+  "Description": "Suggests the best Mahjong play.",
+  "InternalName": "MahjongMaster",
+  "AssemblyVersion": "1.0.0.0",
+  "DalamudApiLevel": 8,
+  "IsHide": false,
+  "Punchline": "Be the Mahjong Master.",
+  "RepoUrl": "https://github.com/yourname/mahjongmaster",
+  "ApplicableVersion": "any"
+}
