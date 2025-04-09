@@ -1,1 +1,21 @@
+[
+  {
+    "Author": "Shadyshawty",
+    "Name": "Mahjong Master",
+    "Punchline": "Suggests the best Mahjong play.",
+    "Description": "Plugin Dalamud that helps you choose the best discard in Doman Mahjong.",
+    "InternalName": "MahjongMaster",
+    "AssemblyVersion": "1.0.0.0",
+    "RepoUrl": "https://github.com/Shadyshawty/MahjongMaster",
+    "ApplicableVersion": "any",
+    "Tags": ["Mahjong", "FFXIV", "Gold Saucer"],
+    "CategoryTags": ["Utility"],
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/Shadyshawty/MahjongMaster/master/plugin/MahjongMaster/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Shadyshawty/MahjongMaster/master/plugin/MahjongMaster/latest.zip",
+    "ImageUrls": [],
+    "IconUrl": ""
+  }
+]
 
