@@ -12,8 +12,10 @@
     "CategoryTags": ["Utility"],
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/Shadyshawty/MahjongMaster/master/plugin/MahjongMaster/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Shadyshawty/MahjongMaster/master/plugin/MahjongMaster/latest.zip",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/Shadyshawty/MahjongMaster/master/plugin/MahjongMaster/latest.zip
+",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Shadyshawty/MahjongMaster/master/plugin/MahjongMaster/latest.zip
+",
     "ImageUrls": [],
     "IconUrl": ""
   }
